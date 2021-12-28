@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="title">
+        <item>Hello Programminger</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Javascript</item>
+        <item>Node Js</item>
+        <item>React Js</item>
+        <item>PHP</item>
+        <item>Wordpress</item>
+        <item>Android Developemnt</item>
+        <item>Developer Al-Amin</item>
+
+
+    </string-array>
+
+</resources>
